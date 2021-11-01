@@ -1,0 +1,1 @@
+Accordion, onde ao expandir, o ícone mude de uma seta para baixo para um X. Ao clicar no X, o accordion deverá se encolher, e ocultando consigo a informação. Fazer 3 accordions desses, contendo imagens e suas descrições. Deverá ser totalmente responsível.
